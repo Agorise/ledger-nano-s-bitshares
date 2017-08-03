@@ -5,7 +5,7 @@ Hello Perso is a sample app from the LedgerHQ repository
 stated purpose is to be a "a simple application showing the UI and master
 seed derivation."
 
-# Compiling:
+### Compiling:
 
 Compiles fine inside Docker image, as in the process described in the
 [Getting Started](http://ledger.readthedocs.io/en/latest/nanos/setup.html)
